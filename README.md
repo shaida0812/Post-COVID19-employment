@@ -15,7 +15,7 @@ Here are the Python libraries used in the creation of this dashboard app
 - SQL (SQLite3)
 
 ## Data source
-Movies on Netflix data released spanning the duration of 1961-2020 was obtained from [Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows).
+sTATISTIC form DOSH
 
 ## Reference
 A detailed tutorial on how to build this app is given at the [Building an Interactive Analytics Dashboard using Python](https://medium.com/@odendavid/building-an-interactive-analytics-dashboard-using-python-0cf6750e3ad6)
