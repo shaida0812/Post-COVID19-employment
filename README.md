@@ -1,4 +1,4 @@
-# 📊 Netflix Analytics Interactive Dashboard
+# 📊 COVID19 Interactive Dashboard
 
 A dashboard web app built in Python using Streamlit.
 
